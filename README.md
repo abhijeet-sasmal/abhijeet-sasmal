@@ -4,6 +4,15 @@
 
 Hi, I am a Data Scientist and a Fullstack Web Developer. As a data scientist I implement different or new machine learning/deep learning algorithms and as a Web Developer I create websites and deploy them on cloud. I am a die hard fan of linux and high performance system. This thing which I love about the linux is the customization. It's just awesome.
 
+<p align="left">
+        <a href="https://www.linkedin.com/in/abhijeet-sasmal-128b2b220/" rel="nofollow"><img src="https://custom-icon-badges.demolab.com/badge/-Linkedn-blue?style=for-the-badge&amp;logoColor=white&amp;logo=repo" alt="my repos" data-canonical-src="https://custom-icon-badges.demolab.com/badge/-Linkedn-blue?style=for-the-badge&amp;logoColor=white&amp;logo=repo" style="max-width: 100%;"></a>
+      <img src="https://custom-icon-badges.demolab.com/badge/-abhijeetsasmal1@gmail.com-red?style=for-the-badge&amp;logo=mention&amp;logoColor=white" alt="email" data-canonical-src="https://custom-icon-badges.demolab.com/badge/-abhijeetsasmal1@gmail.com-red?style=for-the-badge&amp;logo=mention&amp;logoColor=white" style="max-width: 100%;">
+      <a href="https://github.com/abhijeet-sasmal?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/abhijeet-sasmal?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/abhijeet-sasmal?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/abhijeet-sasmal?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
+
 ---
 
 ### 🧰 Languages and Tools
