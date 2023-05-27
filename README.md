@@ -6,7 +6,6 @@ Hi, I am a Data Scientist and a Fullstack Web Developer. As a data scientist I i
 
 <p align="left">
         <a href="https://www.linkedin.com/in/abhijeet-sasmal-128b2b220/" rel="nofollow"><img src="https://custom-icon-badges.demolab.com/badge/-Linkedn-blue?style=for-the-badge&amp;logoColor=white&amp;logo=repo" alt="my repos" data-canonical-src="https://custom-icon-badges.demolab.com/badge/-Linkedn-blue?style=for-the-badge&amp;logoColor=white&amp;logo=repo" style="max-width: 100%;"></a>
-      <img src="https://custom-icon-badges.demolab.com/badge/-abhijeetsasmal1@gmail.com-red?style=for-the-badge&amp;logo=mention&amp;logoColor=white" alt="email" data-canonical-src="https://custom-icon-badges.demolab.com/badge/-abhijeet.work.1512@gmail.com-red?style=for-the-badge&amp;logo=mention&amp;logoColor=white" style="max-width: 100%;">
       <a href="https://github.com/abhijeet-sasmal?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/abhijeet-sasmal?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/abhijeet-sasmal?tab=repositories&sort=stargazers">
